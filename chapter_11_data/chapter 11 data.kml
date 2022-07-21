@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Naamloze laag</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Apt 1</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8894394,52.3760294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 2</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8882807,52.3748635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 3</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8831094,52.3716278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 4</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8858131,52.374929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 5</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8871435,52.3716278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 6</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8848223,52.3698899,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 7</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8828053,52.3686322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 8</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8869466,52.3681998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 9</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8878478,52.3707546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 10</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8827409,52.3676234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 11</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8846844,52.3732006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 12</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8831609,52.3730172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 13</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8866371,52.36986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 14</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8875597,52.3739998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 15</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.882603,52.3712749,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 16</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.89482,52.3711023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 17</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8961075,52.3723992,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 18</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8892625,52.370814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 19</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8924811,52.3698315,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 20</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8928888,52.3711023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 21</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9003132,52.3738534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 22</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8991759,52.3765257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 23</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8965581,52.3757659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 24</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.893318,52.3676565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 25</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8982377,52.3690294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 26</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8988171,52.3708111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 27</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8968215,52.3693831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 28</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9034305,52.3712304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 29</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9028082,52.3739683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 30</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8994179,52.3720687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 31</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8878444,52.3672967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 32</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8891962,52.3664975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 33</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8874367,52.365672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 34</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8886383,52.3650431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 35</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8850549,52.3648203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 36</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8898828,52.3644273,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 37</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8875225,52.3631563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 38</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8853767,52.3624356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 39</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8912347,52.3638114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 40</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8945606,52.3638245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 41</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8938954,52.3620949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 42</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8960626,52.3609549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 43</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.8974359,52.3634445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 44</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9003113,52.3622128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 45</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9024999,52.3617804,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 46</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9039021,52.3701078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 47</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9136439,52.3688501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 48</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9096528,52.3658367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 49</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9132577,52.3647623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 50</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.908022,52.3639499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 51</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9174205,52.3636878,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 52</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9126998,52.3642643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 53</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9198237,52.3668062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 54</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9089661,52.361434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 55</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9111548,52.3702913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 56</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9072924,52.3678806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 57</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9099103,52.36961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 58</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9174634,52.369348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 59</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9034301,52.364736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt 60</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          4.9133864,52.3616175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
